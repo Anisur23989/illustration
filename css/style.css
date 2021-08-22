@@ -1,0 +1,18 @@
+.shopping-details{
+    width: 600px;
+}
+button{
+    font-size: 14px;
+}
+h3{
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s ease;
+}
+.price{
+ margin-left:-30px;
+}
